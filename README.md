@@ -1,17 +1,13 @@
 # BIG-INTEGER-
 
-some ofthe git command : 
+This project enables the calculation of numbers beyond 8 bytes in the C language. Standard C only supports arithmetic operations up to 8 bytes, but with the Big Integer project, you can perform arithmetic operations on much larger numbers.
 
-
-ls - to list the items present in current directory
-
-gcc -o app main.c library.c -  compiles library.c and main.c together
-
-now there will be a new file named "app.exe" which is out executable file.
-
-to run this file type ./app.exe
-
-here you go now you can do long long long and looooonnnnggggg  calculations.
+# Git Commands-
+Here are some useful Git commands for working with the project:
+<br>
+ls - Lists the items present in the current directory.
+<br>
+gcc -o app main.c library.c - Compiles library.c and main.c together.
 
 
 
